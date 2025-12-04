@@ -1,0 +1,18 @@
+timestamp,event,artifact_path,category
+2001-08-23 14:00:00,SOUND181.wav modified,artifacts/images/sound181.png,System File
+2008-03-27 12:43:47,NSSUTIL modified,artifacts/images/nssutil_metadata.png,Application File
+2008-05-13 23:24:14,SOUND181.wav accessed/created,artifacts/images/sound181.png,System File
+2008-05-14 07:38:41,NSSUTIL created,artifacts/images/nssutil_metadata.png,Application File
+2008-07-06 09:38:42,Email created: 'Background checks' from Alison,artifacts/images/email_background_checks.png,Email
+2008-07-06 09:38:42,Email created: 'This is what I was talking about' from Alison,artifacts/images/email_talking_about.png,Email
+2008-07-06 09:38:42,Email created: 'Do you know anything about my SSN?' from Bob,artifacts/images/email_ssn_question.png,Email
+2008-07-06 09:38:42,Email created: 'Did you populate the database with real data?' from Carol,artifacts/images/email_realdata.png,Email
+2008-07-21 03:17:54,Email modified: 'Background checks',artifacts/images/email_background_checks.png,Email
+2008-07-21 03:17:54,Email modified: 'This is what I was talking about',artifacts/images/email_talking_about.png,Email
+2008-07-21 03:17:54,Email modified: 'Do you know anything about my SSN?',artifacts/images/email_ssn_question.png,Email
+2008-07-21 03:17:54,Email modified: 'Did you populate the database with real data?',artifacts/images/email_realdata.png,Email
+2008-07-21 03:17:54,Email sent: 'Please send me the information now' from Jean,artifacts/images/email_send_info.png,Email
+2008-07-12 23:44:59,Ammunition image saved,artifacts/images/ammo.png,Image
+2008-07-12 23:45:06,Pistol image saved,artifacts/images/pistol.png,Image
+2008-07-13 00:43:36,Generic photo created,artifacts/images/photo_2008_07_13.png,Image
+2008-07-20 03:28:03,Salary spreadsheet created (M57.biz),artifacts/images/salary_sheet.png,Document
