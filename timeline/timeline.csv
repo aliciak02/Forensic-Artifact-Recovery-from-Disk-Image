@@ -7,6 +7,7 @@ timestamp,event,artifact_path,category
 2008-07-06 09:38:42,Email created: 'This is what I was talking about' from Alison,artifacts/images/email_talking_about.png,Email
 2008-07-06 09:38:42,Email created: 'Do you know anything about my SSN?' from Bob,artifacts/images/email_ssn_question.png,Email
 2008-07-06 09:38:42,Email created: 'Did you populate the database with real data?' from Carol,artifacts/images/email_realdata.png,Email
+2008-07-06 09:38:42,Email created: 'Thanks for the file' from Alison,artifacts/images/email_thanks.png,Email 
 2008-07-21 03:17:54,Email modified: 'Background checks',artifacts/images/email_background_checks.png,Email
 2008-07-21 03:17:54,Email modified: 'This is what I was talking about',artifacts/images/email_talking_about.png,Email
 2008-07-21 03:17:54,Email modified: 'Do you know anything about my SSN?',artifacts/images/email_ssn_question.png,Email
