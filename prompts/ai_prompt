@@ -1,14 +1,21 @@
 Val av modul: Mistral 7B Instruct v0.3
 Vi behöver hjälp med att skriva en rapport utifrån dessa instruktioner, hur ska vi göra? 
-Can you write your answers in swedish instead ?
+Can you write your answers in swedish instead?
 Hur ska vi genomföra detta i autopsy ?
+Kan du ge förslag på en disk image som vi kan använda till uppgiften? 
+Disk imagen ska vara lagom stor för att kunna genomföra ? 
+Kan du länka till sidorna med disk image?
 Kan du göra en timeline och lägga bilderna i rätt ordning utifrån dokumentet README?
-Skapa en CSV-fil?
-Hur genomför man uppladdning på github?
-Kan du skapa förslag på komplett GitHub-struktur, utgå från instruktionerna i filen Assignment_11_Forensic_Artifact_Recovery.pdf?
-Gör hänvisningar på CSV-filen utifrån GitHub-strukturen?
 Lägg till alla timestamps och bilder som finns i dokumentet?
+Kan du skapa en CSV-fil och importera timelinen dit?
+Gör en snyggare struktur på filen? 
+Hur genomför man uppladdning på github?
 Hur fungerar Github, kan du förklara för någon som aldrig använt det innan? Hur gör man? 
+Kan du skapa förslag på komplett GitHub-struktur, utgå från instruktionerna i filen Assignment_11_Forensic_Artifact_Recovery.pdf?
 Vilket alternativ ska man välja på github i detta steget?
+Gör hänvisningar på CSV-filen utifrån GitHub-strukturen?
 Vad ska mappen prompt innehålla?
-Kan du skriva en rapport utifrån datan i dokumenter som vi samlat in från Jean's disk image ?
+Kan du skriva en rapport utifrån datan i dokumentet som vi samlat in från Jean's disk image ?
+Rapporten ska presenteras utifrån instruktionerna i Assignment_11_Forensic_Artifact_Recovery.Format: Skriv i times new roman, få med det viktiga. Målgrupp: It forensisk utbildning på HögskolaExtra krav: Skriv ett formellt men enkelt språk på engelska.
+I rapporten ska du också få med att The downloaded disk image was downloaded from : https://digitalcorpora.org/corpora/scenarios/m57-jean/, Name: Jean’s disk in EnCase E01 format: nps-2008-jean.E01, Varför valde vi de filer vi gjorde : för att de ansågs suspekta och skulle potentiellt kunna vara kopplat till någon brottslighet eller skadlig data.Inga raderade filer var av intresse, Topologin och antal filer : se bild nedan  
+Skriv objektivt och dra inga slutsatser?
