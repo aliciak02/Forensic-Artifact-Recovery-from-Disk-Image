@@ -4,6 +4,8 @@ This repository contains the project report and forensic artifacts from a disk i
 The project was conducted for academic purposes and was performed on a disk image to recover forensic artifacts and reconstruct user activity, 
 following established forensic methods and evidence handling procedures.
 
+The materials provided in this repository are intended for educational purposes only and should not be used for any illegal or unauthorized activities. Proper attribution should be given when using or referencing this project.
+
 ## License
 
 This project is released for academic use under the MIT License.  
