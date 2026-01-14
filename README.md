@@ -7,7 +7,7 @@ following established forensic methods and evidence handling procedures.
 ## License
 
 This project is released for academic use under the MIT License.  
-See [LICENCE.md](LICENCE.md) for full license details.
+See [LICENSE.md](LICENSE.md) for full license details.
 
 ## Project report
 [Download the full report (PDF)](REPORT.pdf)
