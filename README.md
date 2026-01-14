@@ -1,6 +1,6 @@
 # Forensic Artifact Recovery from Disk Image
 
-# Ethical and Legal Considerations
+## Ethical and Legal Considerations
 
 This repository contains the project report and forensic artifacts from a disk image as part of a digital forensics investigation.
 The project was conducted for academic purposes and was performed on a disk image to recover forensic artifacts and reconstruct user activity, 
